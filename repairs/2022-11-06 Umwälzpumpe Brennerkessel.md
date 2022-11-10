@@ -14,7 +14,7 @@ Eine kurze Recherche in der Anleitung des Brenners zum Feuerungsautomat (Landis 
 
 ![](./assets/2022-11-06%20Feuerungsautomat.png)
 
-Bevor ich das versuchen wollte, galt es nochmals einen Versuch zu starten. Der Brenner sprang sofort und ohne Vorwärmzeit an. Entweder war der Temperatursensor "grob" defekt, oder meine erste Vermutung scheidet aus. Den Überbrückungsversuch verwarf ich damit.
+Bevor ich das versuchen wollte, galt es nochmals einen Versuch zu starten. Der Brenner sprang dieses Mal sofort und ohne Vorwärmzeit an. Entweder war der Temperatursensor "grob" defekt, oder meine erste Vermutung scheidet aus. Den Überbrückungsversuch verwarf ich damit.
 
 Mir war dann erst aufgefallen, dass die Kesseltemperatur größer-gleich der eingestellten Temperatur war. Der Brenner lief also kurz zuvor. Wieso aber war der Wasserspeicher und die Heizung dann kalt?
 
@@ -32,3 +32,10 @@ Glücklicherweise hatte ich noch eine passende gebrauchte Pumpe in Reserve, welc
 
 Ersatz für den Anlauf-Kondensator (2,6 µF/ 400 V) ist bestellt und wird in einem Follow-Up in die defekte Pumpe eingebaut.
 
+## Follow-Up 2022-11-09
+
+Bzgl. ausgebauter Pumpe: Der neue Anlaufkondensator (mit 2,5 µF leicht abweichend, aber aufgrund ±10% Toleranz des ursprünglichen Kondensators im Range), den ich auf Verdacht bestellt hatte, brachte keine Besserung. Das war also nicht die Ursache.
+
+Beim Auseinanderbauen der Pumpe fiel tatsächlich auf, dass sie schwergängig zu drehen war. Während ein Klopfen von außen nicht ausreichte, konnte das Schaufelrad mit wenig Kraft wieder angedreht und gängig gemacht werden.
+
+> **Tipp:** Ich hatte dann anschließend erst gelernt, dass bei vielen Pumpen die Entlüftungsschraube ganz rausgedreht werden kann, um dahinter das Schaufelrad mit Vierkant oder Schlitz andrehen zu können.
